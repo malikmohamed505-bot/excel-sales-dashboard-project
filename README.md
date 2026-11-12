@@ -20,13 +20,13 @@ Sales analysis dashboard built in Excel to track total sales by region, category
 8. Built final interactive Dashboard with Slicers
 
 ## Power Query
-![Power Query](power-query.png)
+![Power Query](clean%20by%20Query.png)
 
 ## Pivot Table
-![Pivot Table](pivot-table.png)
+![Pivot Table](bavat%20table.png)
 
 ## Dashboard
-![Dashboard](dashboard.png)
+![Dashboard](dashboard2.png)
 
 ## Tools Used
 Excel - Power Query - PivotTable - Slicers
